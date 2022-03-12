@@ -13,4 +13,4 @@ This repository would store all the code and relevant files (POC, training sets,
 #
 ![](Images/age.png)
 
-### _One of the key features of this section would be to show the results from the Proof Of Concept which was executed before the final project proposal. The training set and code script are examples from formal similar projects_
+### _One of the key features of this section would be to show the results from the Proof Of Concept which was executed before the final project proposal. The training set and code script are examples of academic projects_
