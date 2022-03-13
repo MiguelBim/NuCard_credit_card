@@ -1,7 +1,7 @@
 ### Set the work environment
 rm(list=ls())
 ls()
-setwd("C:/Users/cliff/Desktop/R")
+setwd("C:/Users/miguelojeda/Desktop/R")
 
 ### install required packages
 install.packages("C50")
